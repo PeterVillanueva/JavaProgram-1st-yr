@@ -1,5 +1,5 @@
 # JavaProgram-1st-yr
-[![Build Status](https://img.shields.io/travis/com/pascalpoizat/template-java-project/master.svg?style=flat-square)](https://travis-ci.com/github/pascalpoizat/template-java-project)
+
 [![Code Coverage with Coveralls](https://img.shields.io/coveralls/pascalpoizat/template-java-project/master.svg?label=coverage%20with%20coveralls&style=flat-square)](https://coveralls.io/github/pascalpoizat/template-java-project)
 [![Code Coverage with Codecov](https://img.shields.io/codecov/c/github/pascalpoizat/template-java-project/master.svg?label=coverage%20with%20codecov&style=flat-square)](https://codecov.io/gh/pascalpoizat/template-java-project)
 [![License](https://img.shields.io/github/license/pascalpoizat/template-java-project.svg?style=flat-square)](LICENSE)
